@@ -1,2 +1,3 @@
-# fullstackopen
-Repo for submission of exercises from Fullstackopen React Course 
+# Full Stack Open 2022
+
+## Repo for submission of exercises from Full Stack Open React Course 
